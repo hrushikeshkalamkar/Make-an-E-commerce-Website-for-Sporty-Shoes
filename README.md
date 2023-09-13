@@ -1,9 +1,13 @@
 # Make-an-E-commerce-Website-for-Sporty-Shoes
 Make an E-commerce Website for Sporty Shoes
 _____________________________________________
+
 Table of contents
+
 General info
+
 Using the application
+
 Technologies Used
 
 General Info
@@ -36,6 +40,9 @@ Admin can see list of all users registered in the system and also search them us
 Admin can see purchase report of all the done in the system, they can also filter the results by Category and order date
 
 Technologies Used
+
 Frontend - HTML, CSS, Bootstrap4 , Thymleaf
+
 Backend - Spring boot , Maven , Java , Spring Security
+
 Database - H2 Database
